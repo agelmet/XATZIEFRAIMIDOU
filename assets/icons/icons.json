@@ -1,0 +1,16 @@
+{
+ "source": {
+  "kind": "inline",
+  "ref": "the header logo (inline SVG in index.html)"
+ },
+ "source_md5": "2ddaba996f6c94fe9489492e4fc18950",
+ "version": "ed28098d",
+ "tile": null,
+ "crop": null,
+ "header": [
+  "inline",
+  "index.html",
+  "2ddaba996f6c94fe9489492e4fc18950"
+ ],
+ "made": "2026-10-19"
+}
